@@ -1,0 +1,9 @@
+{
+  "name": "My Money — Budget & Loans",
+  "short_name": "My Money",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#062c32",
+  "theme_color": "#062c32",
+  "description": "Offline-first MVR salary budget and loan tracker"
+}
